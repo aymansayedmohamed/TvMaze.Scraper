@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gan5AiEPTFtTtjCDmm0XeJLv16n33Ug+f/BEgrPErP9xeyPEbYv4KsEAyoqjy21Mw9l3mn3ypTWht0haPdXSqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Friss\\Learnings\\Tasks\\RTL\\TvMaze.Scraper\\src\\TvMaze.Scraper.Infrastructure\\TvMaze.Scraper.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayman.sayed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\ayman.sayed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ayman.sayed\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ayman.sayed\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
